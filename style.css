@@ -1,7 +1,15 @@
 /* style */
 
 * {
-    font-family: "Verdana", sans-serif;
+    font-family: "Arial", sans-serif;
+    background-color: #dadac5;
+    color: #0c0244;
+}
+
+.title {
+    font-family: "Georgia", serif;
+    font-weight: 900;
+    color:black;
 }
 
 div {
