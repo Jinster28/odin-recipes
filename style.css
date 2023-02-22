@@ -1,0 +1,13 @@
+/* style */
+
+* {
+    font-family: "Verdana", sans-serif;
+}
+
+div {
+    width: 800px;
+}
+img {
+    height: auto;
+    width: 800px;
+}
